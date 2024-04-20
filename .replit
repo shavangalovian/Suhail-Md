@@ -12,7 +12,7 @@ language = "nodejs"
 onBoot = "npm i || yarn"
 
 [nix]
-channel = "stable-23_05"
+channel = "stable-500_05"
 
 [deployment]
 run = ["yarn","start"]
