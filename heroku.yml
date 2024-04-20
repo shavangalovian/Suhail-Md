@@ -1,5 +1,5 @@
 build:
   docker:
       web: Suhail_Md
-run: uptime 2hours
+run: uptime 2 hours
   web: npm start
